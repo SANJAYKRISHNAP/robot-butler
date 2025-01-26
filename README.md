@@ -8,6 +8,8 @@ Workspace Setup
 create a new ROS2 workspace:
 mkdir -p ros2_ws/src
 cd ros2_ws
+Clone the repository:
+git clone https://github.com/SANJAYKRISHNAP/robot-butler.git
 
 Build the workspace:
 colcon build
